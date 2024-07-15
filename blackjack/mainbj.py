@@ -79,6 +79,8 @@ def bj():
                         else:
                             print("IT'S A DRAW!")
                         break
+    user.clear()
+    computer.clear()
     bj()
                     
 bj()
